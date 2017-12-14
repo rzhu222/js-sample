@@ -1,0 +1,26 @@
+before_script:
+  - export
+
+stages:
+  - validation
+  - security_scan
+
+job-1-candidate-build:
+  stage: validation
+  tags:
+    - renez
+  image: artifactory.eu-cph-1.unityops.net:6666/ci-docker
+  script:
+  - |
+
+    echo "Testing SourceClear quick scan on Javascript npm ..."
+
+job-2-candidate-scan:
+  stage: security_scan
+  tags:
+    - renez
+  image: artifactory.eu-cph-1.unityops.net:6666/ci-docker
+  script:
+  - |
+    echo "Completing quick scan and generating report -- this should see no scan output with flag set to 0"
+    RUN_SRCCLR=0
