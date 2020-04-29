@@ -1081,9 +1081,9 @@
       }
     },
     "jquery": {
-      "version": "3.0.0-alpha1",
-      "resolved": "https://registry.npmjs.org/jquery/-/jquery-3.0.0-alpha1.tgz",
-      "integrity": "sha1-NJPWciZuIcLf+ycU+TVEjt6+PGI="
+      "version": "3.5.0",
+      "resolved": "https://registry.npmjs.org/jquery/-/jquery-3.5.0.tgz",
+      "integrity": "sha512-Xb7SVYMvygPxbFMpTFQiHh1J7HClEaThguL15N/Gg37Lri/qKyhRGZYzHRyLH8Stq3Aow0LsHO2O2ci86fCrNQ=="
     },
     "json3": {
       "version": "3.2.6",
