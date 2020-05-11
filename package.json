@@ -8,7 +8,7 @@
     "jquery": "3.0.0-alpha1",
     "express": "4.1.1",
     "boom": "0.2.1",
-    "tinymce": "4.2.3",
+    "tinymce": "4.9.10",
     "hapi": "8.1.0",
     "sequelize": "3.12.1",
     "console-io": "2.6.3",
