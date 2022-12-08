@@ -1618,9 +1618,9 @@
       "integrity": "sha1-/pMAbCglOo2lxJKZMGmR+kzE9Aw="
     },
     "tinymce": {
-      "version": "4.2.3",
-      "resolved": "https://registry.npmjs.org/tinymce/-/tinymce-4.2.3.tgz",
-      "integrity": "sha1-jXQv3BcCb6xT53mhpj7CdW44ll0="
+      "version": "5.10.7",
+      "resolved": "https://registry.npmjs.org/tinymce/-/tinymce-5.10.7.tgz",
+      "integrity": "sha512-9UUjaO0R7FxcFo0oxnd1lMs7H+D0Eh+dDVo5hKbVe1a+VB0nit97vOqlinj+YwgoBDt6/DSCUoWqAYlLI8BLYA=="
     },
     "to-array": {
       "version": "0.1.4",
